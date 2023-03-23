@@ -1,0 +1,86 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+nav {
+    margin: auto;
+    width: 200px;
+}
+
+.logo {
+
+    height: 100px;
+    width: 100px;
+    margin: auto;
+}
+
+#contain {
+
+    display: block;
+    margin: auto;
+   border-radius: 5px;
+    height: 400px;
+    background-color: rgb(214, 82, 82);
+    border: 3px solid black;
+    overflow:auto;
+    width: 591px;
+}
+
+.msg {
+    background-color: rgb(117, 117, 245);
+    margin: 10px;
+    padding: 2px;
+    width: 150px;
+    border: 2px solid wheat;
+    border-radius: 5px;
+    color: #f1f8f6;
+
+}
+
+.right {
+
+    float: right;
+    clear: both;
+}
+
+.center{
+
+   
+    clear: both;
+    /* display: block; */
+    margin: 5px auto;
+}
+
+.left {
+
+    float: left;
+    clear: both;
+}
+
+.send {
+
+
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+
+input{
+
+    width: 493px;
+    height: 25px;
+    border-radius: 3px;
+    border: 2px solid black;
+
+}
+.btn{
+    padding: 5px;
+    width: 100px;
+    background-color: #04AA6D;
+    border: 2px solid  #685555;
+    border-radius: 3px;
+
+
+
+}
